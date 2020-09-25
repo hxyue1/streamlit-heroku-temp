@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run tml_st_temp.py
+web: sh create_config.sh && streamlit run app.py
